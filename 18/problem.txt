@@ -1,0 +1,4 @@
+Count words in a string
+bonus: lines, sentences, paragraphs, typos, &c.
+
+Count the number of given tokens in a given string, without using your language's library functions (if any) that do it.
